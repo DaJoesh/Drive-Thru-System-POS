@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>iconsImages/1024px-Black_close_x.svg.png</file>
+    <file>iconsImages/1200px-Green-Up-Arrow.svg.png</file>
+    <file>iconsImages/1200px-RedDownArrow.svg.png</file>
+  </qresource>
+</RCC>

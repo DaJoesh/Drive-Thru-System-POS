@@ -1,0 +1,7 @@
+sql.json
+manageOrder.cpython-311.pyc
+*.pem
+/__pycache__
+/Cashier/__pycache__
+/Cook/__pycache__
+/Manager/__pycache__

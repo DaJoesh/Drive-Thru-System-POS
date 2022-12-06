@@ -1,0 +1,6 @@
+sql.json
+*.pem
+/__pycache__
+/Manager/__pycache__
+/Cook/__pycache__
+/Cahsier/__pycache__

@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="images">
+    <file>menuImages/chickSan.png</file>
+    <file>menuImages/dihydrogenMonoxide.png</file>
+    <file>menuImages/holyBread.png</file>
+    <file>menuImages/lastFridaysFries.png</file>
+    <file>menuImages/mack.png</file>
+    <file>menuImages/seasonedWater.png</file>
+    <file>menuImages/waltersNuggies.png</file>
+    <file>menuImages/wangBang.png</file>
+  </qresource>
+</RCC>

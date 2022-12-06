@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="logo">
+    <file>Los_Pollos.webp</file>
+  </qresource>
+</RCC>
